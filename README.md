@@ -1,4 +1,4 @@
-# tuo-progress (react)
+# tuo-componenets (react)
 
 ## Screenshot
 
